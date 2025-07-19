@@ -1,0 +1,6 @@
+INFO: Usuario inició sesión
+ERROR: No se pudo cargar el perfil
+WARNING: Espacio en disco casi lleno
+ERROR: Fallo de autenticación
+INFO: Configuración guardada
+ERROR: Archivo dañado
